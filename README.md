@@ -4,6 +4,6 @@
 </p>
 
 <p><samp> - ✏️ Personal blog: https://sharonytlau.gatsbyjs.io/ </samp></p>
-<p><samp> - 🌱 Currently learning: JavaScript, Vue, CSS, HTML </samp></p>
+<p><samp> - 🌱 Currently learning: JavaScript, Vue, TypeScript, CSS, HTML </samp></p>
 <p><samp> - 📖 Higher education: Master of Science in Business Analytics </samp></p>
 <p><samp> - 🕹️ Favorite pastimes: Music, TV, Switch games, Photography, Travel </samp></p>
