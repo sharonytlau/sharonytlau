@@ -4,6 +4,6 @@
 </p>
 
 <p><samp> - ✏️ Personal blog: https://blog.sharonytlau.xyz </samp></p>
-<p><samp> - 🌱 Currently learning: React, React Native, TypeScript, Vue, JavaScript, CSS, HTML </samp></p>
+<p><samp> - 🌱 Currently learning: Next.js, React, TypeScript, JavaScript, CSS </samp></p>
 <p><samp> - 📖 Higher education: Master of Science in Business Analytics </samp></p>
 <p><samp> - 🕹️ Favorite pastimes: Music, TV, Switch games, Photography, Travel </samp></p>
