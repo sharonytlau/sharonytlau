@@ -5,4 +5,4 @@
 
 <p><samp> - 🌱 Currently learning: Programming Languages, TypeScript, Web Development </samp></p>
 <p><samp> - 📖 Higher education: Master of Science in Business Analytics </samp></p>
-<p><samp> - 🕹️ Favorite pastimes: Music, TV, Switch games, Photography, Travel </samp></p>
+<p><samp> - 🕹️ Favorite pastimes: Music, TV, Photography, Travel </samp></p>
